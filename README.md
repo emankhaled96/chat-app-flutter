@@ -1,5 +1,7 @@
 # chat_app
 
+A Group Chat app build based on firebase firestore and flutter
+
 A new Flutter project.
 
 ## Getting Started
