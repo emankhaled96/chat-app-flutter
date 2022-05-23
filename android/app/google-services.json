@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "872602354752",
+    "firebase_url": "https://twitter-clone-228ab.firebaseio.com",
+    "project_id": "twitter-clone-228ab",
+    "storage_bucket": "twitter-clone-228ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872602354752:android:04fdcf5276493af44d4ba5",
+        "android_client_info": {
+          "package_name": "com.eman.chatapp.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872602354752-lq7kfm2ai37a8ns0pm36icn29k9u7d94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpfW5a1dxo7tNWRWVHwkAqAsd4W1HUxCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872602354752-lq7kfm2ai37a8ns0pm36icn29k9u7d94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
